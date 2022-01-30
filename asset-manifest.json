@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JustPay/static/css/main.b8e7ef11.css",
+    "main.js": "/JustPay/static/js/main.dd628810.js",
+    "index.html": "/JustPay/index.html",
+    "main.b8e7ef11.css.map": "/JustPay/static/css/main.b8e7ef11.css.map",
+    "main.dd628810.js.map": "/JustPay/static/js/main.dd628810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e7ef11.css",
+    "static/js/main.dd628810.js"
+  ]
+}
